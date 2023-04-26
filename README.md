@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/gbrllcavichion">
   <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gbrllcavichion&theme=radical&show_icons=true"/>
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllcavichion&layout=compact&langs_count=16&theme=radical"/>       
+  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllcavichion&layout=compact&langs_count=16&theme=radical"/>       
 </div>
   
 <div style="display: inline_block"><br>
