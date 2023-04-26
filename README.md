@@ -30,5 +30,5 @@
   <a href="https://open.spotify.com/user/ananan-95?si=R4X_l0rmQP-axod2liF6eQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198982828789/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/kristenarguello/gbrllcavichion/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/gbrllcavichion/blob/output/github-contribution-grid-snake.svg)
 </div>
