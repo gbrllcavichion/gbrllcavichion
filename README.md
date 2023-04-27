@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/gbrllcavichion">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gbrllcavichion&theme=radical&show_icons=true"/>
-  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllcavichion&layout=compact&langs_count=16&theme=radical"/>       
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbrllcavichion&theme=radical&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllcavichion&layout=compact&langs_count=16&theme=radical"/>       
 </div>
   
 <div style="display: inline_block"><br>
@@ -30,5 +30,10 @@
   <a href="https://open.spotify.com/user/ananan-95?si=R4X_l0rmQP-axod2liF6eQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198982828789/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/gbrllcavichion/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/gbrllcavichion/gbrllcavichion/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
