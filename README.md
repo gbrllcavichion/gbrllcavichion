@@ -19,6 +19,7 @@
   <img align="center" alt="Gabi-.net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Gabi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Gabi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="center" alt="Gabi-rmq" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg">
   <img align="right" alt="Gabi-gif" src="https://i.picasion.com/pic92/29333c54bbabc1244f0c544e8ce9a905.gif" />
 </div>
 
