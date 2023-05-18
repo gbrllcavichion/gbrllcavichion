@@ -1,7 +1,7 @@
 ### Hey folks, Gabi here 👋🍄
 
 
-- 🔭 I’m currently working on back-end.
+- 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning Spring Boot
 - ⭐ I'm software engineer intern at Dell
 - 🌎 I'm Brazilian 
