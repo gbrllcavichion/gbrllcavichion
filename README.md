@@ -25,7 +25,6 @@
   <img align="center" alt="Gabi-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="right" alt="Gabi-gif" src="https://i.picasion.com/pic92/29333c54bbabc1244f0c544e8ce9a905.gif" />
   <img align="right" alt="Gabi-gif2" src="https://imgflip.com/gif/7mqjqx.gif" />
 </div>
 
