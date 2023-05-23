@@ -38,7 +38,7 @@
   
 ###
   <a href="https://github.com/tthn0/Spotify-Readme">
-  <img align="left" height="70%" width="40%" src="https://spotify-readme-rho-one.vercel.app/api?theme=dark" alt="Current Spotify Song">
+  <img align="left" width="50%" src="https://spotify-readme-rho-one.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
 </div>
 
