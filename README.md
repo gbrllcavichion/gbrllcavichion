@@ -40,7 +40,7 @@
   <a href="https://github.com/tthn0/Spotify-Readme">
   <img allign="left" width="50%" src="https://spotify-readme-rho-one.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
-  <img allign="right" alt="Gabi-gif" height="30%" width="30%" src= "https://cdn.discordapp.com/attachments/735490458729316363/1110572979731058688/Media_230523_111749.gif"  />
+  <img allign="right" alt="Gabi-gif" height="27%" width="27%" src= "https://cdn.discordapp.com/attachments/735490458729316363/1110572979731058688/Media_230523_111749.gif"  />
 </div>
 
    ![Snake animation](https://github.com/gbrllcavichion/gbrllcavichion/blob/output/github-contribution-grid-snake.svg)
