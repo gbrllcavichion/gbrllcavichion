@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on back-end 
 - 🌱 I’m currently learning Spring Boot 
-- ⭐ I'm software engineer intern at Dell 
+- ⭐ I'm a software engineer intern at Dell 
 - 🌎 I'm Brazilian  
-- ⚡ Fun fact: My most played game is Rainbow Six
+- ⚡ Fun fact: My most played game is Rainbow Six 
 
 <div>
   <a href="https://github.com/gbrllcavichion">
