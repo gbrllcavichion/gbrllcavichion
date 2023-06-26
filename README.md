@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning Spring Boot
 - ⭐ I'm a software engineer intern at Dell 
-- 🌎 I'm Brazilian 
+- 🌎 I'm Brazilian
 - ⚡ Fun fact: My most played game is Rainbow Six
 
 <div>
