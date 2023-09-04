@@ -44,4 +44,3 @@
   
 </div>
 
-  ![snake gif](https://github.com/gbrllcavichion/gbrllcavichion/blob/output/github-contribution-grid-snake.svg)  
