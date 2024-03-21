@@ -2,7 +2,7 @@
   
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning Angular
-- ⭐ I'm a Software Engineer I at Dell
+- ⭐ I'm a Software Engineer at Dell
 - 🌎 I'm Brazilian
 - ⚡ Fun fact: My most played game is Rainbow Six
 
