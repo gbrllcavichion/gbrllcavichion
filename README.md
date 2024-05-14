@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular  
 - ⭐ I'm a Software Engineer at Dell 
 - 🌎 I'm Brazilian
-- ⚡ Fun fact: My most played game is Rainbow Six
+- ⚡ Fun fact: My most played game is Rainbow Six 
 
 <div>
   <a href="https://github.com/gbrllcavichion">
