@@ -1,6 +1,6 @@
 ### Hey folks, Gabi here 👋🍄  
          
-- 🔭 I’m currently working on back-end  
+- 🔭 I’m currently working on back-end 
 - 🌱 I’m currently learning Angular    
 - ⭐ I'm a Software Engineer at Dell 
 - 🌎 I'm Brazilian    
