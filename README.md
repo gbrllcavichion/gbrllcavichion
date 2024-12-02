@@ -38,6 +38,9 @@
   <a href="https://open.spotify.com/user/ananan-95?si=R4X_l0rmQP-axod2liF6eQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198982828789/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
+##
+![](https://github-readme-streak-stats.herokuapp.com/?user=gbrllcavichion&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllcavichion&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 ###
   <a href="https://github.com/tthn0/Spotify-Readme">
