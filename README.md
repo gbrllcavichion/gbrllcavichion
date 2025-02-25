@@ -1,7 +1,7 @@
 ### Hey folks, Gabi here 👋🍄   
              
 - 🔭 I’m currently working on back-end 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Java Data Structure
 - ⭐ I'm a Software Engineer at Dell 
 - 🌎 I'm Brazilian    
 - ⚡ Fun fact: I play drums
