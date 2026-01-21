@@ -1,10 +1,10 @@
 ### Hey folks, Gabi here 👋🍄   
              
-- 🔭 I’m currently working on back-end 
-- 🌱 I’m currently learning Java Data Structure
-- ⭐ I'm a Software Engineer at Dell 
-- 🌎 I'm Brazilian    
-- ⚡ Fun fact: I play drums
+⭐ Software Engineer focused on backend development  
+🔧 Java | Spring Boot | AWS | Event-driven systems  
+☁️ Studying AWS Cloud Practitioner & cloud architecture  
+🌎 Based in Brazil | Open to global opportunities  
+🥁 Fun fact: I play drums
 
 <div>
   <a href="https://github.com/gbrllcavichion">
