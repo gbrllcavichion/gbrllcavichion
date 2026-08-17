@@ -1,38 +1,93 @@
-### Hey folks, Gabi here 👋🍄   
-             
-⭐ Software Engineer focused on backend development  
-🔧 Java | Spring Boot | AWS | Event-driven systems  
-☁️ Studying AWS Cloud Practitioner & cloud architecture  
-🌎 Based in Brazil | Open to global opportunities  
-🥁 Fun fact: I play drums
+# Hi, I'm Gabi 👋🏻
 
-  
-<div style="display: inline_block"><br>
-  <img align="center"alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />  
-  <img align="center"alt="Gabi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
-  <img align="center"alt="Gabi-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center"alt="Gabi-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-   <img align="center"alt="Gabi-rmq" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg">
-  <img align="center"alt="Gabi-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center"alt="Gabi-.net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center"alt="Gabi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="center"alt="Gabi-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center"alt="Gabi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center"alt="Gabi-reactive" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center"alt="Gabi-reactive" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   
-  
-  
-</div>
+### Software Engineer II @ TownSq | Backend • AWS • Cybersecurity
 
-##
-  
-<div>
-  <a href="https://instagram.com/gabriellecavichion" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+I'm a Software Engineer focused on backend development, cloud computing and security.
+
+Currently, I work mainly with **TypeScript, Node.js and AWS**, building serverless and event-driven applications using services such as **Lambda, SQS, DynamoDB, RDS and API Gateway**.
+
+I also have a strong background in **Java and Spring Boot**, working with APIs, microservices, messaging and automated testing.
+
+🎓 I'm currently studying **Information Security at Unisinos**, expanding my knowledge in cybersecurity, cryptography, network security, blockchain, digital forensics and secure software development.
+
+☁️ I'm especially interested in **Cloud Security, DevSecOps, Application Security and AWS**.
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,java,spring" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+Currently studying and exploring:
+
+- Network Security
+- Cryptography
+- Cloud Security
+- DevSecOps
+- MITRE ATT&CK
+- Digital Forensics
+- Web Security
+- Secure Software Development
+- Blockchain & Smart Contracts
+
+---
+
+## ☁️ AWS
+
+Some of the AWS services I work with:
+
+`Lambda` • `SQS` • `API Gateway` • `DynamoDB` • `RDS` • `SSM` • `IAM` • `VPC` • `CloudWatch` • `CDK`
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  🔐 Cybersecurity & Information Security<br>
+  ☁️ AWS & Cloud Security<br>
+  🛡️ DevSecOps & Secure Software Development<br>
+  🏗️ Software Architecture & Event-Driven Systems<br>
+  🔑 Cryptography & Authentication
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p>
   <a href="https://www.linkedin.com/in/gabriellecavichion" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/ananan-95?si=R4X_l0rmQP-axod2liF6eQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/profiles/76561198982828789/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  </a>
+</p>
   
-  
-</div>
-
