@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:06b6d4&height=155&section=header&text=Gabrielle%20Cavichion&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Security&descAlignY=60&descSize=15" width="100%" alt="Gabrielle Cavichion banner" />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312e81,50:7c3aed,100:06b6d4&amp;height=155&amp;section=header&amp;text=Gabrielle%20Cavichion&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Backend%20and%20Cloud%20Security&amp;descAlignY=60&amp;descSize=15"
+  width="100%"
+  alt="Gabrielle Cavichion banner"
+/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1100&color=A78BFA&center=true&vCenter=true&width=690&lines=Software+Engineer+II+%40+TownSq;Backend+Development+%7C+AWS+%7C+Serverless;Exploring+Cloud+Security+%26+DevSecOps;Building+secure%2C+scalable+systems)](https://git.io/typing-svg)
 
@@ -29,7 +35,13 @@ I'm a **Software Engineer II at TownSq**, focused on backend development, cloud 
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gbrllcavichion&show_icons=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=22d3ee" alt="Gabrielle's GitHub stats" width="100%" />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbrllcavichion&amp;theme=tokyonight&amp;animation=fade"
+  alt="Gabrielle's GitHub stats"
+  width="100%"
+/>
+
 
 </td>
 </tr>
